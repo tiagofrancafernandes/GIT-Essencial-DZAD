@@ -29,10 +29,11 @@ São ramificações (`branches`) de alguma `branch`.
 5. **git log:** Mostra o histórico de commits. [OK]
 
 > **Adicionais:**
-> - **git branch:** Lista, cria ou deleta branches.
-> - **git merge [branch]:** Combina alterações de uma branch à branch atual.
-> - **git diff:** Mostra as diferenças entre as alterações antes do commit.
-> Esses comandos formam a base essencial para trabalhar com Git no desenvolvimento web, desde a criação de repositórios até a colaboração em projetos.
+> - **git branch...:** Lista, cria ou deleta branches. [OK]
+> - **git branch:** Lista todas as branches locais. [OK]
+> - **git branch -a:** Lista todas as branches (locais e remotas). [OK]
+> - **git merge [branch]:** Combina alterações de uma branch à branch atual. [OK]
+> - **git diff:** Mostra as diferenças entre as alterações antes do commit. [OK]
 
 > **Remoto:**
 6. **git remote -v:** Mostra os repositórios remotos configurados.
@@ -40,5 +41,8 @@ São ramificações (`branches`) de alguma `branch`.
 8. **git pull:** Atualiza o repositório local com as alterações do repositório remoto.
 9. **git push:** Envia os commits locais para o repositório remoto.
 10. **git fetch:** Busca as alterações do repositório remoto, mas não as aplica.
+    > **Adicionais:**
+    - **git branch -a:** Lista todas as branches (locais e remotas).
 
 Esses são os tópicos essenciais para cada módulo, cobrindo desde o básico até aspectos mais avançados, proporcionando uma base sólida para o desenvolvimento web.
+Esses comandos formam a base essencial para trabalhar com Git no desenvolvimento web, desde a criação de repositórios até a colaboração em projetos.
