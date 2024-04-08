@@ -11,6 +11,9 @@ RECEITA   -> BOLO
 2. Adicione o(s) item(ns) ao `stage`
 3. Identifique a(a) ação(ões) feita(s) por meio de uma mensagem (commit)
 
+#### Branches
+
+São ramificações (`branches`) de alguma `branch`.
 
 ######
 
