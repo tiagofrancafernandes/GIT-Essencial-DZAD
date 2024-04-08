@@ -36,13 +36,13 @@ São ramificações (`branches`) de alguma `branch`.
 > - **git diff:** Mostra as diferenças entre as alterações antes do commit. [OK]
 
 > **Remoto:**
-6. **git remote -v:** Mostra os repositórios remotos configurados.
-7. **git clone [url]:** Clona um repositório remoto para o diretório local.
-8. **git pull:** Atualiza o repositório local com as alterações do repositório remoto.
-9. **git push:** Envia os commits locais para o repositório remoto.
-10. **git fetch:** Busca as alterações do repositório remoto, mas não as aplica.
+6. **git remote -v:** Mostra os repositórios remotos configurados. [OK]
+7. **git clone [url]:** Clona um repositório remoto para o diretório local. [OK]
+8. **git pull:** Atualiza o repositório local com as alterações do repositório remoto. [OK]
+9. **git push:** Envia os commits locais para o repositório remoto. [OK]
+10. **git fetch:** Busca as alterações do repositório remoto, mas não as aplica. [OK]
     > **Adicionais:**
-    - **git branch -a:** Lista todas as branches (locais e remotas).
+    - **git branch -a:** Lista todas as branches (locais e remotas). [OK]
 
 Esses são os tópicos essenciais para cada módulo, cobrindo desde o básico até aspectos mais avançados, proporcionando uma base sólida para o desenvolvimento web.
 Esses comandos formam a base essencial para trabalhar com Git no desenvolvimento web, desde a criação de repositórios até a colaboração em projetos.
